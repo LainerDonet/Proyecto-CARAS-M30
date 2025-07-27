@@ -168,6 +168,5 @@ export const Title = styled.h1`
 ## Autor
 
 **Nombre:** Lainer Felipe Donet Vasconcellos
-```markdown
-<span style="font-size: 14px; color: #666;">Proyecto desarrollado como parte del curso Frontend de EBAC – Módulo 30.</span>
-``
+
+Proyecto desarrollado como parte del **curso Frontend de EBAC – Módulo 30**.
