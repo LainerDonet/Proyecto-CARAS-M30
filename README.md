@@ -165,19 +165,9 @@ export const Title = styled.h1`
    ```
 
 ---
-
-## Próximos pasos
-
-* Integrar validación en el formulario.
-* Añadir animaciones y microinteracciones.
-* Mejorar la accesibilidad (a11y) y optimización de SEO.
-
----
-
 ## Autor
 
 **Nombre:** Lainer Felipe Donet Vasconcellos
-
 Proyecto desarrollado como parte del **curso Frontend de EBAC – Módulo 30**.
 
 
