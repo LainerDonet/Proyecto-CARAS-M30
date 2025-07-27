@@ -1,4 +1,4 @@
-```markdown
+```
 # CARAS Landing Page – Refactorización con React y TypeScript
 
 Este proyecto forma parte del **Módulo 30** del curso de Frontend de EBAC.  
@@ -27,7 +27,7 @@ El objetivo es **refactorizar la landing page existente** (HTML, CSS y JavaScrip
 
 La estructura sugerida para el proyecto es la siguiente:
 
-```
+```markdown
 caras-landing/
 ├── src/
 |-- assets/
