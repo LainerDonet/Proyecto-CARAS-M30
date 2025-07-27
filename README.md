@@ -1,4 +1,3 @@
-```
 # CARAS Landing Page – Refactorización con React y TypeScript
 
 Este proyecto forma parte del **Módulo 30** del curso de Frontend de EBAC.  
