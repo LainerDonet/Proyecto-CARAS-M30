@@ -1,19 +1,17 @@
-import { createGlobalStyle } from 'styled-components';
+import React from 'react';
+import * as S from './styles';
+import logo from '../../assets/Logo 2.png';
 
-const GlobalStyle = createGlobalStyle`
-  @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300;700&family=Playfair+Display:ital,wght@0,400;0,700;1,400&display=swap');
+const Header: React.FC = () => {
+  return (
+    <S.HeaderWrapper>
+      <img src={logo} alt="logo" />
+      <div>
+        <h1>Suscríbete a nuestro Newsletter</h1>
+        <h2>Recibe las últimas noticias y actualizaciones directamente en tu bandeja de entrada</h2>
+      </div>
+    </S.HeaderWrapper>
+  );
+};
 
-  * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-
-  body {
-    font-family: 'Playfair Display', serif;
-    color: #333;
-    width: 100%;
-  }
-`;
-
-export default GlobalStyle;
+export default Header;

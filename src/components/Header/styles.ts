@@ -9,6 +9,9 @@ export const HeaderWrapper = styled.header`
   position: fixed;
   width: 100%;
   padding: 10px 20px;
+  top: 0;
+  left: 0;
+  z-index: 1000;
 
   img {
     width: 150px;
