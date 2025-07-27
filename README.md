@@ -1,5 +1,3 @@
-Aquí tienes el **README.md** listo para copiar y pegar en tu repositorio:
-
 ```markdown
 # CARAS Landing Page – Refactorización con React y TypeScript
 
@@ -30,7 +28,6 @@ El objetivo es **refactorizar la landing page existente** (HTML, CSS y JavaScrip
 La estructura sugerida para el proyecto es la siguiente:
 
 ```
-
 caras-landing/
 ├── src/
 |-- assets/
